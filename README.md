@@ -14,6 +14,7 @@ Installation
 
 Clone this repository:
 git clone https://github.com/3vilByt3s/Duplicate-Remover.git
+
 cd Duplicate-Remover
 
 Ensure you have Python installed:
