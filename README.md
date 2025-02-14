@@ -13,8 +13,8 @@ A text file (list.txt by default) containing lines of text.
 Installation
 
 Clone this repository:
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/3vilByt3s/Duplicate-Remover.git
+cd Duplicate-Remover
 
 Ensure you have Python installed:
 python --version
